@@ -10,7 +10,7 @@
   "name": "AlvearieFHIRImplementationGuide",
   "title": "Alvearie FHIR Implementation Guide",
   "status": "active",
-  "date": "2021-07-12T18:02:25+00:00",
+  "date": "2021-07-15T21:06:19+00:00",
   "contact": [
     {
       "name": "Kim Kenna",
@@ -654,6 +654,11 @@
         {
           "nameUrl": "index.html",
           "title": "Home",
+          "generation": "markdown"
+        },
+        {
+          "nameUrl": "downloads.html",
+          "title": "Downloads",
           "generation": "markdown"
         }
       ]

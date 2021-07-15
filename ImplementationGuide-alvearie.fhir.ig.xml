@@ -11,7 +11,7 @@
   <name value="AlvearieFHIRImplementationGuide"/>
   <title value="Alvearie FHIR Implementation Guide"/>
   <status value="active"/>
-  <date value="2021-07-12T18:02:25+00:00"/>
+  <date value="2021-07-15T21:06:19+00:00"/>
   <contact>
     <name value="Kim Kenna"/>
     <telecom>
@@ -467,6 +467,11 @@
       <page>
         <nameUrl value="index.html"/>
         <title value="Home"/>
+        <generation value="markdown"/>
+      </page>
+      <page>
+        <nameUrl value="downloads.html"/>
+        <title value="Downloads"/>
         <generation value="markdown"/>
       </page>
     </page>
