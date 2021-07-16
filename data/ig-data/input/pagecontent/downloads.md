@@ -1,4 +1,4 @@
-* [Snapshot v0.1.1 (jar)] (ig-common-data-model-0.1.1-SNAPSHOT.jar)
+* [Snapshot v0.1.1 (jar)](ig-common-data-model-0.1.1-SNAPSHOT.jar)
 * [Full Specification (zip)](full-ig.zip)
 * [Package (tgz)](package.tgz)
 * [JSON Definitions (zip)](definitions.json.zip)
