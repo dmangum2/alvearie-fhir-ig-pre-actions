@@ -2,14 +2,11 @@
   <li><a href="index.html">IG Home</a></li>
   <li><a href="toc.html">Table of Contents</a></li>
   <li><a href="artifacts.html">Artifacts Summary</a></li>
-  <li><a href="dowhloads.html">Artifacts Summary</a></li>
+  <li><a href="dowhloads.html">Downloads</a></li>
   <li class="dropdown">
     <a data-toggle="dropdown" href="#" class="dropdown-toggle">Other Resources<b class="caret"> </b></a>
     <ul class="dropdown-menu">
       <li><a target="_blank" href="{{site.data.fhir.path}}index.html">FHIR Spec <img src="external.png" style="text-align: baseline"/></a></li>
-      <li><a href="full-ig.zip">Full IG zip <style="text-align: baseline"/></a></li>
-      <li><a href="package.tgz">Package tgz<style="text-align: baseline"/></a></li>
-      <li><a href="ig-common-data-model-0.1.1-SNAPSHOT.jar">Snapshot jar v0.1.1<style="text-align: baseline"/></a></li>
     </ul>
   </li>
 </ul>
